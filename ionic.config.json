@@ -1,0 +1,7 @@
+{
+  "name": "catracho-pizzas-repo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
